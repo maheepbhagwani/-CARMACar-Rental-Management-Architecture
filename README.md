@@ -1,0 +1,2 @@
+# -CARMACar-Rental-Management-Architecture
+Car Rental Management System based on Blockchain technology which provides a peer-to-peer car renting platform. This project was a collaboration between the team at The Department Of Computer Science, Christ (Deemed To Be University) and E-Commerce Students from the University Of Applied Sciences, Würzburg - Schweinfurt, Germany. The project secured first prize among its competition.
